@@ -1,0 +1,8 @@
+.python-version
+api_creds.yaml
+
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
