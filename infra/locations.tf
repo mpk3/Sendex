@@ -1,5 +1,5 @@
 resource "awscc_s3_bucket" "locations" {
-  bucket_name = "sendex_locations"
+  bucket_name = "sendex-locations"
 
   public_access_block_configuration = {
     block_public_acls       = true
