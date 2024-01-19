@@ -14,6 +14,7 @@ terraform {
     }
   }
 }
+# Comment to test github action
 
 provider "aws" {
   region = "us-east-1"
